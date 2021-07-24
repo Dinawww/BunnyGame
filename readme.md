@@ -1,6 +1,6 @@
 # Bunny Game
 
-#### by [Dina] (https://github.com/Dinawww) and [Emily] (https://github.com/Emilyyaan12)
+#### by [Dina](https://github.com/Dinawww) and [Emily](https://github.com/Emilyyaan12)
 
 
 ## Pitch
