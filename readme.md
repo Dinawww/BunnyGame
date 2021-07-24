@@ -1,7 +1,6 @@
-<!-- more syntax here! https://www.markdownguide.org/cheat-sheet/ -->
-# PLACE HOLDER TITLE
+# Bunny Game
 
-#### by Dina and Emily (https://github.com/Dinawww)
+#### by [Dina] (https://github.com/Dinawww) and [Emily] (https://github.com/Emilyyaan12)
 
 
 ## Pitch
@@ -10,10 +9,9 @@ Hello my name is Dina and this is my partner Emily. We created this product call
 
 ## Dependencies
 - python 3.8 and above
-- WEB API WARNINNG
-- list any other import's and their version number you're using here
 - Import Pillow
 - Import tkinter
+- Import typing
 
 
 ## How to run
